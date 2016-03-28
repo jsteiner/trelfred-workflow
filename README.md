@@ -6,6 +6,8 @@ Uses the [trelfred script] to cache and search Trello boards.
 
 [trelfred script]: https://github.com/jsteiner/trelfred
 
+![Trelfred demo](https://cloud.githubusercontent.com/assets/466493/14092917/223ea38e-f518-11e5-9ced-0ef55bb2cad9.gif)
+
 ## Features
 
 * Caches boards for instant search.
