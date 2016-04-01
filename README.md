@@ -21,13 +21,13 @@ Uses the [trelfred script] to cache and search Trello boards.
 
    ```
    TRELLO_USERNAME=your-username
-   TRELLO_DEVELOPER_KEY=your-key
-   TRELLO_TOKEN=your-token
+   TRELLO_API_KEY=your-key
+   TRELLO_API_TOKEN=your-token
    ```
 
 1. Get your [Trello developer key] and add it to your `.env`.
 1. Get your Trello token from the following URL and add it to your `.env`.
-   Be sure to **replace the developer token** in the URL:
+   Be sure to **replace the developer key** in the URL:
 
     https://trello.com/1/authorize?key=REPLACE_WITH_YOUR_DEVELOPER_KEY&name=Trelfred&expiration=never&response_type=token
 
