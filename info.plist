@@ -192,7 +192,7 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>cache-trelfred</string>
+				<string>trelfred-cache</string>
 				<key>text</key>
 				<string>Cache Trelfred</string>
 				<key>withspace</key>
