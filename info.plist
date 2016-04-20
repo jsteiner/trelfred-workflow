@@ -156,7 +156,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>./trelfred increment {query}</string>
+				<string>./trelfred increment {query} &amp;&amp; ./trelfred cache</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
