@@ -1,3 +1,7 @@
+# This Repo Deprecated
+
+But don't fret! It turns out exporting/importing workflows from Alfred works a whole lot better than managing this in git. Download the latest version of Alfred Workflow [here](https://github.com/jsteiner/trelfred/releases).
+
 # Trelfred Workflow
 
 A Trello Workflow for Alfred
